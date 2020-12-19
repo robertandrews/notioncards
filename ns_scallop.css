@@ -1,0 +1,8 @@
+body {
+  /*Free Scalloped Edge SVG provided by SVGeez.com - CC 4.0 License - © 2019 Megan Young */
+  background-color:rgb(255, 166, 166) !important;
+  fill:#fff !important;
+  background-size:500px;
+  background-repeat:repeat-x;
+  background-image:url("data:image/svg+xml;charset=utf8,%3Csvg id='Layer_1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500' style='enable-background:new 0 0 500 500'%3E%3Cstyle type='text/css'%3E .st0{fill:rgba(255,255,255,1);} %3C/style%3E%3Cpath class='st0' d='M0,0v9h0.5C0.8,22.3,11.7,33,25,33S49.2,22.3,49.5,9h1C50.8,22.3,61.7,33,75,33S99.2,22.3,99.5,9h1 c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24 s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1 c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24s24.2-10.7,24.5-24h1c0.3,13.3,11.2,24,24.5,24 s24.2-10.7,24.5-24h0.5V0H0z'/%3E%3C/svg%3E");
+}
